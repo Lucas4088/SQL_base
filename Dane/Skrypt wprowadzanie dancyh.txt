@@ -1,0 +1,22 @@
+LOAD TABLE Jezyk
+FROM 'C:\Users\lukas\Documents\BD\Lukasz_Salamonik_biblioteka\Dane\Jêzyk.txt' DELIMITED BY ';';
+LOAD TABLE Gatunek
+FROM 'C:\Users\lukas\Documents\BD\Lukasz_Salamonik_biblioteka\Dane\Gatunek.txt' DELIMITED BY ';';
+LOAD TABLE Ksiazka
+FROM 'C:\Users\lukas\Documents\BD\Lukasz_Salamonik_biblioteka\Dane\Ksi¹¿ka.txt' DELIMITED BY ';';
+LOAD TABLE Autorstwo
+FROM 'C:\Users\lukas\Documents\BD\Lukasz_Salamonik_biblioteka\Dane\Autorstwo.txt' DELIMITED BY ';';
+LOAD TABLE Nosnik
+FROM 'C:\Users\lukas\Documents\BD\Lukasz_Salamonik_biblioteka\Dane\Noœnik.txt' DELIMITED BY ';';
+LOAD TABLE Egzemplarz
+FROM 'C:\Users\lukas\Documents\BD\Lukasz_Salamonik_biblioteka\Dane\Egzemplarz.txt' DELIMITED BY ';';
+LOAD TABLE Klient
+FROM 'C:\Users\lukas\Documents\BD\Lukasz_Salamonik_biblioteka\Dane\Klient.txt' DELIMITED BY ';';
+LOAD TABLE KontoBiblioteczne
+FROM 'C:\Users\lukas\Documents\BD\Lukasz_Salamonik_biblioteka\Dane\KontoBiblioteczne.txt' DELIMITED BY ';';
+LOAD TABLE Wypozyczenie
+FROM 'C:\Users\lukas\Documents\BD\Lukasz_Salamonik_biblioteka\Dane\Wypo¿yczenia.txt' DELIMITED BY ';';
+LOAD TABLE HistoriaWypozyczen
+FROM 'C:\Users\lukas\Documents\BD\Lukasz_Salamonik_biblioteka\Dane\HistoriaWypo¿yczeñ.txt' DELIMITED BY ';';
+LOAD TABLE Kara
+FROM 'C:\Users\lukas\Documents\BD\Lukasz_Salamonik_biblioteka\Dane\Kara.txt' DELIMITED BY ';';

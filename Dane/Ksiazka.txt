@@ -1,0 +1,20 @@
+1,8,Sowka,1,Biegnacy Chlopiec
+2,3,Britzl,2,Homo Faber. Ein Bericht
+3,5,Wydawnictwo Polskie,1,Nasza Popkultura
+4,1,TWT,1,Zasady Walki
+5,8,Sowka,1,Nieznane przestworza
+6,6,Britzl,2,Die Sschachnovelle
+7,15,ABC,3,New Adventure
+8,12,Wydawnictwo Polskie,1,Polska Zaciezna
+9,9,TWT,1,Bratni Zakatek
+10,6,Sowka,1,Okazyjny Podarunek
+11,11,TWT,1,Moja Milosc
+12,10,Literat,1,Jake na bezludnej wyspie
+13,3,Wydawnictwo Polskie,1,Poznam bardziej
+14,4,LeFranse,4,Les Liaisons dangereuses
+15,17,LeFranse,4,Les fourmis
+16,18,Sowka,1,Zwiazki poznawcze
+17,7,Pertrite,4,Les Particules elementaires
+18,1,ABC,3,Thinking in different position
+19,2,Literat,1,Natura umyslu
+20,5,Sowka,1,O rzeczach mniej waznych

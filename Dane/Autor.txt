@@ -1,0 +1,16 @@
+1,Albert,Kazimierczuk,Polska
+2,John,Beline,USA
+3,Bernard,Antczuk,Polska
+4,Marine,Leprete,Francja
+5,Therese,Whonne,Niemcy
+6,Artur,Intczak,Polska
+7,Kazimierz,Welnowicz,Polska
+8,Helena,Powilska,Polska
+9,Braun,Zweit,Niemcy
+10,Micheal,Lawn,USA
+11,Anna,Matysiak,Polska
+12,Antoni,Sierkowski,Polska
+13,Rita,Bertz,Francja
+14,Marc,Antwirtz,Niemcy
+15,Marianna,Czekalska,Polska
+16,Anne,Carlinger,UK

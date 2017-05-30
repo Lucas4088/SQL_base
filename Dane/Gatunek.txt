@@ -1,0 +1,20 @@
+1,Dramat
+2,Romans
+3,Komedia
+4,Science Fiction
+5,Tragedia
+6,Fantasy
+7,Kryminal
+8,Thriller
+9,Horror
+10,Edukacyjne
+11,Kulinarne
+12,Popularno-naukowe
+13,Przyrodnicze
+14,Dokumentalne
+15,Biografie
+16,Autobiografie
+17,Mlodziezowe
+18,Przygodowe
+19,Psychologiczne
+20,Hobbistyczne

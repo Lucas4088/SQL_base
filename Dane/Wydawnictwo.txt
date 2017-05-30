@@ -1,0 +1,12 @@
+Soka,Warszawa
+Literat,Krakow
+TWT,Katowice
+ABC,Denver
+Prymus,Opole
+Wydawnictwo Polskie,Warszawa
+Britzl,Berlin
+Burstawal,Berlin
+Kritzlew,Monachium
+LDV,Londyn
+LeFranse,Paryz
+Pertrite,Paryz
